@@ -23,7 +23,7 @@
   region: 库尔札斯 # Coerthas
   scale: 95
 黑衣森林东部林区:
-  zonename: 黑衣森林东部林区 00
+  zonename: 黑衣森林东部林区
   filename: f1f200
   region: 黑衣森林 # The Black Shroud
   scale: 100
@@ -72,7 +72,7 @@
   region: 拉诺西亚 # La Noscea
   scale: 100
 黑衣森林南部林区:
-  zonename: 黑衣森林南部林区 00
+  zonename: 黑衣森林南部林区
   filename: f1f300
   region: 黑衣森林 # The Black Shroud
   scale: 100
