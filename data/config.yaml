@@ -2,7 +2,7 @@ tool:
     textools_path: D:\Documents\TexTools
     project_path: D:\Documents\TexTools\ffxiv-huntmaps # 保存结果
     imagemagick_path: D:\Dev\Tools\ImageMagick-7.1.0-portable-Q16-HDRI-x64\magick.exe
-    preview_url_template: https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/Saved/UI/Maps/{region}/{zone}/{file}_m.png
+    preview_url_template: https://raw.githubusercontent.com/enderneko/ffxiv-huntmaps-maker/master/Saved/UI/地图/{region}/{zone}/{file}_m.png
 
 marker:
     size: 40
