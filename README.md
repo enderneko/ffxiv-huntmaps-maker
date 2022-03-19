@@ -4,6 +4,8 @@
 
 具体说明见原项目 [ffxiv-huntmaps-maker](https://github.com/RKI027/ffxiv-huntmaps-maker)
 
+**本 Repo 不仅是汉化 maker，且提供了已经制作好的汉化 mod**
+
 ## 使用方法
 
 0. 安装 python（3.7以上）与 ImageMagick
