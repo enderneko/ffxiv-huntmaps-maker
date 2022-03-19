@@ -1,7 +1,7 @@
 tool:
     textools_path: "~/Documents/TexTools"
-    project_path: "~/Documents/Projects/ffxiv-huntmaps"
-    imagemagick_path: C:\Program Files\ImageMagick-7.0.10-Q16-HDRI\magick.EXE
+    project_path: "~/Documents/TexTools/ffxiv-huntmaps"
+    imagemagick_path: D:\Dev\Tools\ImageMagick-7.1.0-portable-Q16-HDRI-x64\magick.exe
     preview_url_template: https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/Saved/UI/Maps/{region}/{zone}/{file}_m.png
 
 marker:
@@ -22,8 +22,8 @@ legend:
     mark_scale: 0.95
     font_stroke: 1
     border_space: (5, 5)
-    font_size: 30
-    font: C:\WINDOWS\FONTS\CORBELI.TTF
+    font_size: 27
+    font: D:\Documents\TexTools\SourceHanSans-Normal.otf
     shadow_color: "#444444"
     shadow_iterations: 7
 
