@@ -1,166 +1,166 @@
-Amh Araeng:
+安穆·艾兰:
   filename: n4f300
-  region: Norvrandt
+  region: 诺弗兰特 # Norvrandt
   scale: 100
-Azys Lla:
+魔大陆阿济兹拉:
   filename: a2f200
-  region: Abalathia's Spine
+  region: 阿巴拉提亚 # Abalathia's Spine
   scale: 95
-Central Shroud:
+黑衣森林中央林区:
   filename: f1f100
-  region: The Black Shroud
+  region: 黑衣森林 # The Black Shroud
   scale: 100
-Central Thanalan:
+中萨纳兰:
   filename: w1f200
-  region: Thanalan
+  region: 萨纳兰 # Thanalan
   scale: 100
-Coerthas Central Highlands:
+库尔札斯中央高地:
   filename: r1f100
-  region: Coerthas
+  region: 库尔札斯 # Coerthas
   scale: 100
-Coerthas Western Highlands:
+库尔札斯西部高地:
   filename: r2f100
-  region: Coerthas
+  region: 库尔札斯 # Coerthas
   scale: 95
-East Shroud:
-  zonename: East Shroud 00
+黑衣森林东部林区:
+  zonename: 黑衣森林东部林区 00
   filename: f1f200
-  region: The Black Shroud
+  region: 黑衣森林 # The Black Shroud
   scale: 100
-Eastern La Noscea:
+东拉诺西亚:
   filename: s1f301
-  region: La Noscea
+  region: 拉诺西亚 # La Noscea
   scale: 100
-Eastern Thanalan:
+东萨纳兰:
   filename: w1f300
-  region: Thanalan
+  region: 萨纳兰 # Thanalan
   scale: 100
-Il Mheg:
+伊尔美格:
   filename: n4f400
-  region: Norvrandt
+  region: 诺弗兰特 # Norvrandt
   scale: 100
-Kholusia:
+珂露西亚岛:
   filename: n4f200
-  region: Norvrandt
+  region: 诺弗兰特 # Norvrandt
   scale: 100
-Lakeland:
+雷克兰德:
   filename: n4f100
-  region: Norvrandt
+  region: 诺弗兰特 # Norvrandt
   scale: 100
-Lower La Noscea:
+拉诺西亚低地:
   filename: s1f200
-  region: La Noscea
+  region: 拉诺西亚 # La Noscea
   scale: 100
-Middle La Noscea:
+中拉诺西亚:
   filename: s1f100
-  region: La Noscea
+  region: 拉诺西亚 # La Noscea
   scale: 100
-Mor Dhona:
+摩杜纳:
   filename: l1f101
-  region: Mor Dhona
+  region: 摩杜纳
   scale: 100
-North Shroud:
+黑衣森林北部林区:
   filename: f1f400
-  region: The Black Shroud
+  region: 黑衣森林 # The Black Shroud
   scale: 100
-Northern Thanalan:
+北萨纳兰:
   filename: w1f500
-  region: Thanalan
+  region: 萨纳兰 # Thanalan
   scale: 100
-Outer La Noscea:
+拉诺西亚外地:
   filename: s1f600
-  region: La Noscea
+  region: 拉诺西亚 # La Noscea
   scale: 100
-South Shroud:
-  zonename: South Shroud 00
+黑衣森林南部林区:
+  zonename: 黑衣森林南部林区 00
   filename: f1f300
-  region: The Black Shroud
+  region: 黑衣森林 # The Black Shroud
   scale: 100
-Southern Thanalan:
+南萨纳兰:
   filename: w1f401
-  region: Thanalan
+  region: 萨纳兰 # Thanalan
   scale: 100
-The Azim Steppe:
+太阳神草原:
   filename: e3f300
-  region: Othard
+  region: 奥萨德 # Othard
   scale: 100
-The Churning Mists:
+翻云雾海:
   filename: d2f300
-  region: Dravania
+  region: 龙堡 # Dravania
   scale: 95
-The Dravanian Forelands:
+龙堡参天高地:
   filename: d2f100
-  region: Dravania
+  region: 龙堡 # Dravania
   scale: 95
-The Dravanian Hinterlands:
+龙堡内陆低地:
   filename: d2f200
-  region: Dravania
+  region: 龙堡 # Dravania
   scale: 95
-The Fringes:
+基拉巴尼亚边区:
   filename: g3f100
-  region: Gyr Abania
+  region: 基拉巴尼亚 # Gyr Abania
   scale: 100
-The Lochs:
+基拉巴尼亚湖区:
   filename: g3f300
-  region: Gyr Abania
+  region: 基拉巴尼亚 # Gyr Abania
   scale: 100
-The Peaks:
+基拉巴尼亚山区:
   filename: g3f200
-  region: Gyr Abania
+  region: 基拉巴尼亚 # Gyr Abania
   scale: 100
-The Rak'tika Greatwood:
+拉凯提卡大森林:
   filename: n4f500
-  region: Norvrandt
+  region: 诺弗兰特 # Norvrandt
   scale: 100
-The Ruby Sea:
+红玉海:
   filename: e3f100
-  region: Othard
+  region: 奥萨德 # Othard
   scale: 100
-The Sea of Clouds:
+阿巴拉提亚云海:
   filename: a2f100
-  region: Abalathia's Spine
+  region: 阿巴拉提亚 # Abalathia's Spine
   scale: 95
-The Tempest:
+黑风海:
   filename: n4f600
-  region: Norvrandt
+  region: 诺弗兰特 # Norvrandt
   scale: 100
-Upper La Noscea:
+拉诺西亚高地:
   filename: s1f500
-  region: La Noscea
+  region: 拉诺西亚 # La Noscea
   scale: 100
-Western La Noscea:
+西拉诺西亚:
   filename: s1f400
-  region: La Noscea
+  region: 拉诺西亚 # La Noscea
   scale: 100
-Western Thanalan:
+西萨纳兰:
   filename: w1f100
-  region: Thanalan
+  region: 萨纳兰 # Thanalan
   scale: 100
-Yanxia:
+延夏:
   filename: e3f200
-  region: Othard
+  region: 奥萨德 # Othard
   scale: 100
-Thavnair:
+萨维奈岛:
   filename: m5f100
-  region: Ilsabard
+  region: 伊尔萨巴德 # Ilsabard
   scale: 100
-Garlemald:
+加雷马:
   filename: m5f200
-  region: Ilsabard
+  region: 伊尔萨巴德 # Ilsabard
   scale: 100
-Labyrinthos:
+迷津:
   filename: k5f100
-  region: The Northern Empty
+  region: 北洋地域 # The Northern Empty
   scale: 100
-Mare Lamentorum:
+叹息海:
   filename: u5f100
-  region: The Sea of Stars
+  region: 星外天域 # The Sea of Stars
   scale: 100
-Ultima Thule:
+天外天垓:
   filename: u5f200
-  region: The Sea of Stars
+  region: 星外天域 # The Sea of Stars
   scale: 100
-Elpis:
+厄尔庇斯:
   filename: n5f100
-  region: The World Unsundered
+  region: 古代世界 # The World Unsundered
   scale: 100

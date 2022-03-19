@@ -8,13 +8,13 @@
 
 1. 跳转至该项目文件夹，安装依赖，`pip install -r requirements.txt`
 
-2. 按自己的需求修改 data/config.yaml
+2. 按自己的情况修改 data/config.yaml
 
 3. 检查地图文件 `python annotate.py check_files`，确认无误后再进行之后的操作
 
 4. 备份地图文件 `python annotate.py backup_files -warning=False`
 
-5. 预览 `python annotate.py annotate_map 地图名`（比如"The Rak'tika Greatwood"英文引号）
+5. 预览 `python annotate.py annotate_map 地图名`（比如"拉凯提卡大森林"英文引号）
 
 6. `python annotate.py annotate_all`
 

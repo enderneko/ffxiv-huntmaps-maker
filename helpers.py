@@ -95,7 +95,7 @@ class ZoneApi:
     def _get_zone_url(self, name):
         """query xivapi to find the url to access zone info.
 
-        There's a trick to Mor Dhona as the zone exists under multiple id"""
+        There's a trick to 摩杜纳 as the zone exists under multiple id"""
         resp = requests.get(f"{self.base_url}/search?indexes=PlaceName&string={name}")
         if resp.ok:
             results = resp.json()["Results"]
@@ -104,7 +104,7 @@ class ZoneApi:
                 if res["Name"] == name:
                     candidates.append(res)
             if len(candidates) > 1:
-                if name == "Mor Dhona":
+                if name == "摩杜纳":
                     return next((item for item in candidates if item["ID"] == 26))[
                         "Url"
                     ]
@@ -141,15 +141,15 @@ class ZoneApi:
     def save_zone_info(self, zones, as_json=False):
         """Save the data, either as yaml (default) or json"""
         if as_json:
-            with open(self.cachename + ".json", "wt") as fp:
+            with open(self.cachename + ".json", "wt", encoding="UTF-8") as fp:
                 json.dump(zones, fp)
                 return
-        with open(self.cachename + ".yaml", "wt") as fp:
+        with open(self.cachename + ".yaml", "wt", encoding="UTF-8") as fp:
             yaml.safe_dump(zones, fp)
 
     def load_zone_info(self, zones=None):
         """Load the data (yaml only)"""
-        with open(self.cachename + ".yaml", "rt") as fp:
+        with open(self.cachename + ".yaml", "rt", encoding="UTF-8") as fp:
             info = yaml.load(fp, Loader=yaml.Loader)
         if zones:
             for zone in list(zones.keys()):

@@ -31,7 +31,7 @@ class MapAnnotator:
     user $PATH or provided in configuration)"""
 
     def __init__(self):
-        with open("data/config.yaml", "rt") as fp:
+        with open("data/config.yaml", "rt", encoding="UTF-8") as fp:
             a = yaml.load_all(fp, Loader=yaml.Loader)
             self._config = {k: v for i in a for k, v in i.items()}
 
@@ -53,7 +53,7 @@ class MapAnnotator:
 
     def _get_path(self, name, project=False, backup=False, ext=None):
         base = self._base_path if not project else self._project_path
-        base = base / "Saved" / "UI" / "Maps"
+        base = base / "Saved" / "UI" / "地图"
         region = self._zones[name]["region"]
         zone = self._zones[name].get("zonename", name)
         file = self._zones[name]["filename"]
@@ -225,6 +225,8 @@ class MapAnnotator:
 
         preview_dst = pdst.with_suffix(".png")
         img.save(preview_dst, format="png")
+
+        print("SAVED: " + name)
 
     def annotate_all(self):
         """Annotate and save all maps.

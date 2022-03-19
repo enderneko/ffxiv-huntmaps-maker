@@ -1,6 +1,6 @@
 tool:
-    textools_path: "~/Documents/TexTools"
-    project_path: "~/Documents/TexTools/ffxiv-huntmaps"
+    textools_path: D:\Documents\TexTools
+    project_path: D:\Documents\TexTools\ffxiv-huntmaps # 保存结果
     imagemagick_path: D:\Dev\Tools\ImageMagick-7.1.0-portable-Q16-HDRI-x64\magick.exe
     preview_url_template: https://raw.githubusercontent.com/RKI027/ffxiv-huntmaps/master/Saved/UI/Maps/{region}/{zone}/{file}_m.png
 
@@ -44,247 +44,247 @@ expansions:
     EW: Endwalker
 
 zones:
-    Middle La Noscea:
+    中拉诺西亚: # Middle La Noscea
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (700, 1300)
-    Lower La Noscea:
+    拉诺西亚低地: # Lower La Noscea
         expansion: ARR
         landmine: true
         legend:
             rows: 4
             position: (1400, 1285)
-    Eastern La Noscea:
+    东拉诺西亚: # Eastern La Noscea
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (545, 1705)
-    Western La Noscea:
+    西拉诺西亚: # Western La Noscea
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (1180, 1565)
-    Upper La Noscea:
+    拉诺西亚高地: # Upper La Noscea
         expansion: ARR
         landmine: true
         legend:
             rows: 4
             position: (600, 1425)
-    Outer La Noscea:
+    拉诺西亚外地: # Outer La Noscea
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (1410, 605)
-    Central Shroud:
+    黑衣森林中央林区: # Central Shroud
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (400, 1340)
-    East Shroud:
+    黑衣森林东部林区: # East Shroud
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (425, 665)
-    South Shroud:
+    黑衣森林南部林区: # South Shroud
         expansion: ARR
         landmine: true
         legend:
             rows: 4
             position: (1140, 1380)
-    North Shroud:
+    黑衣森林北部林区: # North Shroud
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (1310, 1495)
-    Western Thanalan:
+    西萨纳兰: # Western Thanalan
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (460, 1020)
-    Central Thanalan:
+    中萨纳兰: # Central Thanalan
         expansion: ARR
         landmine: true
         legend:
             rows: 4
             position: (485, 1380)
-    Eastern Thanalan:
+    东萨纳兰: # Eastern Thanalan
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (1000, 1500)
-    Southern Thanalan:
+    南萨纳兰: # Southern Thanalan
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (1300, 1210)
-    Northern Thanalan:
+    北萨纳兰: # Northern Thanalan
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (510, 1280)
-    Mor Dhona:
+    摩杜纳: # Mor Dhona
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (1110, 960)
-    Coerthas Central Highlands:
+    库尔札斯中央高地: # Coerthas Central Highlands
         expansion: ARR
         landmine: false
         legend:
             rows: 4
             position: (1180, 1600)
-    Coerthas Western Highlands:
+    库尔札斯西部高地: # Coerthas Western Highlands
         expansion: HW
         landmine: true
         legend:
             rows: 4
             position: (125, 1630)
-    The Sea of Clouds:
+    阿巴拉提亚云海: # The Sea of Clouds
         expansion: HW
         landmine: false
         legend:
             rows: 4
             position: (560, 1850)
-    Azys Lla:
+    魔大陆阿济兹拉: # Azys Lla
         expansion: HW
         landmine: false
         legend:
             rows: 4
             position: (45, 1825)
-    The Dravanian Forelands:
+    龙堡参天高地: # The Dravanian Forelands
         expansion: HW
         landmine: false
         legend:
             rows: 4
             position: (595, 1855)
-    The Dravanian Hinterlands:
+    龙堡内陆低地: # The Dravanian Hinterlands
         expansion: HW
         landmine: false
         legend:
             rows: 4
             position: (1200, 190)
-    The Churning Mists:
+    翻云雾海: # The Churning Mists
         expansion: HW
         landmine: false
         legend:
             rows: 4
             position: (1370, 215)
-    The Fringes:
+    基拉巴尼亚边区: # The Fringes
         expansion: SB
         landmine: false
         legend:
             rows: 4
             position: (80, 1675)
-    The Peaks:
+    基拉巴尼亚山区: # The Peaks
         expansion: SB
         landmine: false
         legend:
             rows: 4
             position: (1400, 1000)
-    The Lochs:
+    基拉巴尼亚湖区: # The Lochs
         expansion: SB
         landmine: false
         legend:
             rows: 4
             position: (225, 1800)
-    The Ruby Sea:
+    红玉海: # The Ruby Sea
         expansion: SB
         landmine: false
         legend:
             rows: 4
             position: (65, 1595)
-    Yanxia:
+    延夏: # Yanxia
         expansion: SB
         landmine: true
         legend:
             rows: 4
             position: (80, 1800)
-    The Azim Steppe:
+    太阳神草原: # The Azim Steppe
         expansion: SB
         landmine: true
         legend:
             rows: 4
             position: (1340, 1820)
-    Lakeland:
+    雷克兰德: # Lakeland
         expansion: SHB
         landmine: false
         legend:
             rows: 4
             position: (55, 1370)
-    Kholusia:
+    珂露西亚岛: # Kholusia
         expansion: SHB
         landmine: false
         legend:
             rows: 4
             position: (1290, 1825)
-    Amh Araeng:
+    安穆·艾兰: # Amh Araeng
         expansion: SHB
         landmine: true
         legend:
             rows: 4
             position: (105, 1720)
-    Il Mheg:
+    伊尔美格: # Il Mheg
         expansion: SHB
         landmine: true
         legend:
             rows: 4
             position: (1320, 1570)
-    The Rak'tika Greatwood:
+    拉凯提卡大森林: # The Rak'tika Greatwood
         expansion: SHB
         landmine: false
         legend:
             rows: 4
             position: (235, 340)
-    The Tempest:
+    黑风海: # The Tempest
         expansion: SHB
         landmine: false
         legend:
             rows: 7
             position: (60, 1640)
-    Thavnair:
+    萨维奈岛: # Thavnair
         expansion: EW
         landmine: unknown
         legend:
             rows: 7
             position: (1600, 1550)
-    Garlemald:
+    加雷马: # Garlemald
         expansion: EW
         landmine: true
         legend:
             rows: 7
             position: (100, 1200)
-    Labyrinthos:
+    迷津: # Labyrinthos
         expansion: EW
         landmine: unknown
         legend:
             rows: 7
             position: (1500, 1500)
-    Mare Lamentorum:
+    叹息海: # Mare Lamentorum
         expansion: EW
         landmine: false
         legend:
             rows: 7
             position: (1600, 1600)
-    Ultima Thule:
+    天外天垓: # Ultima Thule
         expansion: EW
         landmine: unknown
         legend:
             rows: 4
             position: (1420, 1700)
-    Elpis:
+    厄尔庇斯: # Elpis
         expansion: EW
         landmine: false
         legend:

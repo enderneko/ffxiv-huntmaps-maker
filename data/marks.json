@@ -2,7 +2,7 @@
     {
         "name": "马利克巨人掌",
         "rank": "A",
-        "zone": "Amh Araeng",
+        "zone": "安穆·艾兰",
         "spawns": [
             [20.0, 36.4],
             [23.3, 29.8],
@@ -18,7 +18,7 @@
     {
         "name": "休格尔",
         "rank": "A",
-        "zone": "Amh Araeng",
+        "zone": "安穆·艾兰",
         "spawns": [
             [10.3, 11.7],
             [11.6, 19.4],
@@ -42,7 +42,7 @@
     {
         "name": "残虐杂技师",
         "rank": "B",
-        "zone": "Amh Araeng",
+        "zone": "安穆·艾兰",
         "spawns": [
             [20.0, 36.4],
             [23.3, 29.8],
@@ -58,7 +58,7 @@
     {
         "name": "大井巨虫",
         "rank": "B",
-        "zone": "Amh Araeng",
+        "zone": "安穆·艾兰",
         "spawns": [
             [10.3, 11.7],
             [11.6, 19.4],
@@ -74,7 +74,7 @@
     {
         "name": "多智兽",
         "rank": "S",
-        "zone": "Amh Araeng",
+        "zone": "安穆·艾兰",
         "spawns": [
             [10.3, 11.7],
             [11.6, 19.4],
@@ -95,7 +95,7 @@
     },
     {
         "name": "得到宽恕的叛乱",
-        "zone": "Amh Araeng",
+        "zone": "安穆·艾兰",
         "rank": "SS",
         "spawns": [
             [27.3, 35.7]
@@ -103,7 +103,7 @@
     },
     {
         "name": "得到宽恕的流言",
-        "zone": "Amh Araeng",
+        "zone": "安穆·艾兰",
         "rank": "SSs",
         "spawns": [
             [13.5, 12.0],
@@ -115,7 +115,7 @@
     {
         "name": "坎帕提",
         "rank": "A",
-        "zone": "Azys Lla",
+        "zone": "魔大陆阿济兹拉",
         "spawns": [
             [8.2, 34.0],
             [9.5, 26.5],
@@ -142,7 +142,7 @@
     {
         "name": "恶臭狂花",
         "rank": "A",
-        "zone": "Azys Lla",
+        "zone": "魔大陆阿济兹拉",
         "spawns": [
             [8.2, 34.0],
             [9.5, 26.5],
@@ -169,7 +169,7 @@
     {
         "name": "利西达斯",
         "rank": "B",
-        "zone": "Azys Lla",
+        "zone": "魔大陆阿济兹拉",
         "spawns": [
             [13.9, 16.9],
             [17.4, 8.5],
@@ -186,7 +186,7 @@
     {
         "name": "全能机甲",
         "rank": "B",
-        "zone": "Azys Lla",
+        "zone": "魔大陆阿济兹拉",
         "spawns": [
             [8.2, 34.0],
             [9.5, 26.5],
@@ -203,7 +203,7 @@
     {
         "name": "卢克洛塔",
         "rank": "S",
-        "zone": "Azys Lla",
+        "zone": "魔大陆阿济兹拉",
         "spawns": [
             [8.2, 34.0],
             [9.5, 26.5],
@@ -230,7 +230,7 @@
     {
         "name": "弗内乌斯",
         "rank": "A",
-        "zone": "Central Shroud",
+        "zone": "黑衣森林中央林区",
         "spawns": [
             [9.5, 16.9],
             [10.0, 18.9],
@@ -260,7 +260,7 @@
     {
         "name": "白鬼鼠王",
         "rank": "B",
-        "zone": "Central Shroud",
+        "zone": "黑衣森林中央林区",
         "spawns": [
             [9.5, 16.9],
             [10.0, 18.9],
@@ -290,7 +290,7 @@
     {
         "name": "雷德罗巨蛇",
         "rank": "S",
-        "zone": "Central Shroud",
+        "zone": "黑衣森林中央林区",
         "spawns": [
             [9.5, 16.9],
             [10.0, 18.9],
@@ -320,7 +320,7 @@
     {
         "name": "花舞仙人刺",
         "rank": "A",
-        "zone": "Central Thanalan",
+        "zone": "中萨纳兰",
         "spawns": [
             [16.3, 12.4],
             [16.3, 19.5],
@@ -350,7 +350,7 @@
     {
         "name": "奥弗杰恩",
         "rank": "B",
-        "zone": "Central Thanalan",
+        "zone": "中萨纳兰",
         "spawns": [
             [16.3, 12.4],
             [16.3, 19.5],
@@ -380,7 +380,7 @@
     {
         "name": "布隆特斯",
         "rank": "S",
-        "zone": "Central Thanalan",
+        "zone": "中萨纳兰",
         "spawns": [
             [16.3, 12.4],
             [16.3, 19.5],
@@ -410,7 +410,7 @@
     {
         "name": "马拉克",
         "rank": "A",
-        "zone": "Coerthas Central Highlands",
+        "zone": "库尔札斯中央高地",
         "spawns": [
             [4.1, 16.6],
             [5.6, 18.1],
@@ -477,7 +477,7 @@
     {
         "name": "纳乌尔",
         "rank": "B",
-        "zone": "Coerthas Central Highlands",
+        "zone": "库尔札斯中央高地",
         "spawns": [
             [4.1, 16.6],
             [5.6, 18.1],
@@ -544,7 +544,7 @@
     {
         "name": "萨法特",
         "rank": "S",
-        "zone": "Coerthas Central Highlands",
+        "zone": "库尔札斯中央高地",
         "spawns": [
             [4.1, 16.6],
             [5.6, 18.1],
@@ -611,7 +611,7 @@
     {
         "name": "卢芭",
         "rank": "A",
-        "zone": "Coerthas Western Highlands",
+        "zone": "库尔札斯西部高地",
         "spawns": [
             [6.6, 12.4],
             [10.0, 13.2],
@@ -642,7 +642,7 @@
     {
         "name": "米勒卡",
         "rank": "A",
-        "zone": "Coerthas Western Highlands",
+        "zone": "库尔札斯西部高地",
         "spawns": [
             [6.6, 12.4],
             [10.0, 13.2],
@@ -673,7 +673,7 @@
     {
         "name": "阿尔提克",
         "rank": "B",
-        "zone": "Coerthas Western Highlands",
+        "zone": "库尔札斯西部高地",
         "spawns": [
             [6.6, 12.4],
             [10.0, 13.2],
@@ -692,7 +692,7 @@
     {
         "name": "克鲁泽",
         "rank": "B",
-        "zone": "Coerthas Western Highlands",
+        "zone": "库尔札斯西部高地",
         "spawns": [
             [25.0, 32.4],
             [26.1, 11.6],
@@ -711,7 +711,7 @@
     {
         "name": "凯撒贝希摩斯",
         "rank": "S",
-        "zone": "Coerthas Western Highlands",
+        "zone": "库尔札斯西部高地",
         "spawns": [
             [6.6, 12.4],
             [10.0, 13.2],
@@ -736,7 +736,7 @@
     {
         "name": "魔导地狱爪",
         "rank": "A",
-        "zone": "Eastern La Noscea",
+        "zone": "东拉诺西亚",
         "spawns": [
             [14.8, 28.8],
             [15.0, 30.6],
@@ -764,7 +764,7 @@
     {
         "name": "血腥玛丽",
         "rank": "B",
-        "zone": "Eastern La Noscea",
+        "zone": "东拉诺西亚",
         "spawns": [
             [14.8, 28.8],
             [15.0, 30.6],
@@ -796,7 +796,7 @@
     {
         "name": "伽洛克",
         "rank": "S",
-        "zone": "Eastern La Noscea",
+        "zone": "东拉诺西亚",
         "spawns": [
             [14.8, 28.8],
             [15.0, 30.6],
@@ -828,7 +828,7 @@
     {
         "name": "千眼凝胶",
         "rank": "A",
-        "zone": "East Shroud",
+        "zone": "黑衣森林东部林区",
         "spawns": [
             [13.6, 23.2],
             [14.4, 25.3],
@@ -870,7 +870,7 @@
     {
         "name": "击刺魔蜂索菲",
         "rank": "B",
-        "zone": "East Shroud",
+        "zone": "黑衣森林东部林区",
         "spawns": [
             [13.6, 23.2],
             [14.4, 25.3],
@@ -912,7 +912,7 @@
     {
         "name": "乌尔伽鲁",
         "rank": "S",
-        "zone": "East Shroud",
+        "zone": "黑衣森林东部林区",
         "spawns": [
             [13.6, 23.2],
             [14.4, 25.3],
@@ -954,7 +954,7 @@
     {
         "name": "玛赫斯",
         "rank": "A",
-        "zone": "Eastern Thanalan",
+        "zone": "东萨纳兰",
         "spawns": [
             [10.4, 19.1],
             [12.8, 15.9],
@@ -995,7 +995,7 @@
     {
         "name": "加特林针鼹",
         "rank": "B",
-        "zone": "Eastern Thanalan",
+        "zone": "东萨纳兰",
         "spawns": [
             [10.4, 19.1],
             [12.8, 15.9],
@@ -1036,7 +1036,7 @@
     {
         "name": "巴拉乌尔",
         "rank": "S",
-        "zone": "Eastern Thanalan",
+        "zone": "东萨纳兰",
         "spawns": [
             [10.4, 19.1],
             [12.8, 15.9],
@@ -1076,7 +1076,7 @@
     {
         "name": "保尔迪雅",
         "rank": "A",
-        "zone": "Il Mheg",
+        "zone": "伊尔美格",
         "spawns": [
             [7.5, 22.8],
             [8.1, 27.1],
@@ -1100,7 +1100,7 @@
     {
         "name": "泥人",
         "rank": "A",
-        "zone": "Il Mheg",
+        "zone": "伊尔美格",
         "spawns": [
             [7.5, 22.8],
             [8.1, 27.1],
@@ -1124,7 +1124,7 @@
     {
         "name": "杜莫伊",
         "rank": "B",
-        "zone": "Il Mheg",
+        "zone": "伊尔美格",
         "spawns": [
             [7.5, 22.8],
             [8.1, 27.1],
@@ -1142,7 +1142,7 @@
     {
         "name": "狐首虺",
         "rank": "B",
-        "zone": "Il Mheg",
+        "zone": "伊尔美格",
         "spawns": [
             [20.0, 8.5],
             [25.5, 6.8],
@@ -1155,7 +1155,7 @@
     {
         "name": "阿格拉俄珀",
         "rank": "S",
-        "zone": "Il Mheg",
+        "zone": "伊尔美格",
         "spawns": [
             [7.5, 22.8],
             [8.1, 27.1],
@@ -1178,7 +1178,7 @@
     },
     {
         "name": "得到宽恕的叛乱",
-        "zone": "Il Mheg",
+        "zone": "伊尔美格",
         "rank": "SS",
         "spawns": [
             [13, 23]
@@ -1186,7 +1186,7 @@
     },
     {
         "name": "得到宽恕的流言",
-        "zone": "Il Mheg",
+        "zone": "伊尔美格",
         "rank": "SSs",
         "spawns": [
             [6, 30],
@@ -1198,7 +1198,7 @@
     {
         "name": "乌拉坎",
         "rank": "A",
-        "zone": "Kholusia",
+        "zone": "珂露西亚岛",
         "spawns": [
             [11.6, 18.6],
             [15.0, 15.8],
@@ -1215,7 +1215,7 @@
     {
         "name": "小小杀手",
         "rank": "A",
-        "zone": "Kholusia",
+        "zone": "珂露西亚岛",
         "spawns": [
             [11.6, 18.6],
             [15.0, 15.8],
@@ -1239,7 +1239,7 @@
     {
         "name": "三合鸟儿",
         "rank": "B",
-        "zone": "Kholusia",
+        "zone": "珂露西亚岛",
         "spawns": [
             [11.6, 18.6],
             [15.0, 15.8],
@@ -1257,7 +1257,7 @@
     {
         "name": "不屈号",
         "rank": "B",
-        "zone": "Kholusia",
+        "zone": "珂露西亚岛",
         "spawns": [
             [9.4, 25.4],
             [15.1, 24.2],
@@ -1271,7 +1271,7 @@
     {
         "name": "得到宽恕的炫学",
         "rank": "S",
-        "zone": "Kholusia",
+        "zone": "珂露西亚岛",
         "spawns": [
             [11.6, 18.6],
             [15.0, 15.8],
@@ -1294,7 +1294,7 @@
     },
     {
         "name": "得到宽恕的叛乱",
-        "zone": "Kholusia",
+        "zone": "珂露西亚岛",
         "rank": "SS",
         "spawns": [
             [35, 10]
@@ -1302,7 +1302,7 @@
     },
     {
         "name": "得到宽恕的流言",
-        "zone": "Kholusia",
+        "zone": "珂露西亚岛",
         "rank": "SSs",
         "spawns": [
             [8, 29],
@@ -1314,7 +1314,7 @@
     {
         "name": "纳里蓬",
         "rank": "A",
-        "zone": "Lakeland",
+        "zone": "雷克兰德",
         "spawns": [
             [8.0, 22.9],
             [11.8, 12.8],
@@ -1339,7 +1339,7 @@
     {
         "name": "纳克拉维",
         "rank": "A",
-        "zone": "Lakeland",
+        "zone": "雷克兰德",
         "spawns": [
             [14.0, 24.7],
             [18.5, 23.0],
@@ -1352,7 +1352,7 @@
     {
         "name": "伊兹帕帕洛特尔",
         "rank": "B",
-        "zone": "Lakeland",
+        "zone": "雷克兰德",
         "spawns": [
             [23.1, 29.8],
             [25.6, 23.8],
@@ -1368,7 +1368,7 @@
     {
         "name": "浓毛兽",
         "rank": "B",
-        "zone": "Lakeland",
+        "zone": "雷克兰德",
         "spawns": [
             [8.0, 22.9],
             [11.8, 12.8],
@@ -1384,7 +1384,7 @@
     {
         "name": "戾虫",
         "rank": "S",
-        "zone": "Lakeland",
+        "zone": "雷克兰德",
         "spawns": [
             [11.8, 12.8],
             [11.6, 17.2],
@@ -1405,7 +1405,7 @@
     },
     {
         "name": "得到宽恕的叛乱",
-        "zone": "Lakeland",
+        "zone": "雷克兰德",
         "rank": "SS",
         "spawns": [
             [23, 22]
@@ -1413,7 +1413,7 @@
     },
     {
         "name": "得到宽恕的流言",
-        "zone": "Lakeland",
+        "zone": "雷克兰德",
         "rank": "SSs",
         "spawns": [
             [10, 25],
@@ -1425,7 +1425,7 @@
     {
         "name": "乌克提希",
         "rank": "A",
-        "zone": "Lower La Noscea",
+        "zone": "拉诺西亚低地",
         "spawns": [
             [16.9, 35.4],
             [19.2, 35.4],
@@ -1452,7 +1452,7 @@
     {
         "name": "宽耳凶蝠",
         "rank": "B",
-        "zone": "Lower La Noscea",
+        "zone": "拉诺西亚低地",
         "spawns": [
             [16.9, 35.4],
             [19.2, 35.4],
@@ -1479,7 +1479,7 @@
     {
         "name": "咕尔呱洛斯",
         "rank": "S",
-        "zone": "Lower La Noscea",
+        "zone": "拉诺西亚低地",
         "spawns": [
             [16.9, 35.4],
             [19.2, 35.4],
@@ -1506,7 +1506,7 @@
     {
         "name": "丑男子 沃迦加",
         "rank": "A",
-        "zone": "Middle La Noscea",
+        "zone": "中拉诺西亚",
         "spawns": [
             [13.9, 13.6],
             [13.9, 11.6],
@@ -1537,7 +1537,7 @@
     {
         "name": "花林女郎",
         "rank": "B",
-        "zone": "Middle La Noscea",
+        "zone": "中拉诺西亚",
         "spawns": [
             [13.9, 13.6],
             [13.9, 11.6],
@@ -1568,7 +1568,7 @@
     {
         "name": "护土精灵",
         "rank": "S",
-        "zone": "Middle La Noscea",
+        "zone": "中拉诺西亚",
         "spawns": [
             [13.9, 13.6],
             [13.9, 11.6],
@@ -1599,7 +1599,7 @@
     {
         "name": "库雷亚",
         "rank": "A",
-        "zone": "Mor Dhona",
+        "zone": "摩杜纳",
         "spawns": [
             [11.9, 11.8],
             [12.7, 13.8],
@@ -1636,7 +1636,7 @@
     {
         "name": "水蛭王",
         "rank": "B",
-        "zone": "Mor Dhona",
+        "zone": "摩杜纳",
         "spawns": [
             [11.9, 11.8],
             [12.7, 13.8],
@@ -1673,7 +1673,7 @@
     {
         "name": "阿格里帕",
         "rank": "S",
-        "zone": "Mor Dhona",
+        "zone": "摩杜纳",
         "spawns": [
             [11.9, 11.8],
             [12.7, 13.8],
@@ -1695,7 +1695,7 @@
     {
         "name": "尾宿蛛蝎",
         "rank": "A",
-        "zone": "North Shroud",
+        "zone": "黑衣森林北部林区",
         "spawns": [
             [15.9, 28.2],
             [16.7, 25.4],
@@ -1722,7 +1722,7 @@
     {
         "name": "天玑巨熊",
         "rank": "B",
-        "zone": "North Shroud",
+        "zone": "黑衣森林北部林区",
         "spawns": [
             [15.9, 28.2],
             [16.7, 25.4],
@@ -1749,7 +1749,7 @@
     {
         "name": "千竿口花希达",
         "rank": "S",
-        "zone": "North Shroud",
+        "zone": "黑衣森林北部林区",
         "spawns": [
             [15.9, 28.2],
             [16.7, 25.4],
@@ -1776,7 +1776,7 @@
     {
         "name": "菲兰德的遗火",
         "rank": "A",
-        "zone": "Northern Thanalan",
+        "zone": "北萨纳兰",
         "spawns": [
             [15.4, 18.5],
             [16.0, 14.6],
@@ -1800,7 +1800,7 @@
     {
         "name": "永恒不灭的菲兰德副耀士",
         "rank": "B",
-        "zone": "Northern Thanalan",
+        "zone": "北萨纳兰",
         "spawns": [
             [15.4, 18.5],
             [16.0, 14.6],
@@ -1824,7 +1824,7 @@
     {
         "name": "蚓螈巨虫",
         "rank": "S",
-        "zone": "Northern Thanalan",
+        "zone": "北萨纳兰",
         "spawns": [
             [15.4, 18.5],
             [16.0, 14.6],
@@ -1848,7 +1848,7 @@
     {
         "name": "角祖",
         "rank": "A",
-        "zone": "Outer La Noscea",
+        "zone": "拉诺西亚外地",
         "spawns": [
             [13.5, 16.2],
             [14.1, 14.1],
@@ -1878,7 +1878,7 @@
     {
         "name": "巫刻猎鹫",
         "rank": "B",
-        "zone": "Outer La Noscea",
+        "zone": "拉诺西亚外地",
         "spawns": [
             [13.5, 16.2],
             [14.1, 14.1],
@@ -1908,7 +1908,7 @@
     {
         "name": "牛头黑神",
         "rank": "S",
-        "zone": "Outer La Noscea",
+        "zone": "拉诺西亚外地",
         "spawns": [
             [13.5, 16.2],
             [14.1, 14.1],
@@ -1938,7 +1938,7 @@
     {
         "name": "盖得",
         "rank": "A",
-        "zone": "South Shroud",
+        "zone": "黑衣森林南部林区",
         "spawns": [
             [15.8, 19.7],
             [16.2, 27.6],
@@ -1973,7 +1973,7 @@
     {
         "name": "君王鬼蜻蜓",
         "rank": "B",
-        "zone": "South Shroud",
+        "zone": "黑衣森林南部林区",
         "spawns": [
             [15.8, 19.7],
             [16.2, 27.6],
@@ -2008,7 +2008,7 @@
     {
         "name": "夺心魔",
         "rank": "S",
-        "zone": "South Shroud",
+        "zone": "黑衣森林南部林区",
         "spawns": [
             [15.8, 19.7],
             [16.2, 27.6],
@@ -2043,7 +2043,7 @@
     {
         "name": "札尼戈",
         "rank": "A",
-        "zone": "Southern Thanalan",
+        "zone": "南萨纳兰",
         "spawns": [
             [13.8, 34.9],
             [14.8, 38.9],
@@ -2092,7 +2092,7 @@
     {
         "name": "死灰复燃的阿尔宾",
         "rank": "B",
-        "zone": "Southern Thanalan",
+        "zone": "南萨纳兰",
         "spawns": [
             [13.8, 34.9],
             [14.8, 38.9],
@@ -2141,7 +2141,7 @@
     {
         "name": "努纽努维",
         "rank": "S",
-        "zone": "Southern Thanalan",
+        "zone": "南萨纳兰",
         "spawns": [
             [13.8, 34.9],
             [14.8, 38.9],
@@ -2179,7 +2179,7 @@
     {
         "name": "基里麦卡拉",
         "rank": "A",
-        "zone": "The Azim Steppe",
+        "zone": "太阳神草原",
         "spawns": [
             [12.5, 17.3],
             [13.5, 10.4],
@@ -2204,7 +2204,7 @@
     {
         "name": "硕姆",
         "rank": "A",
-        "zone": "The Azim Steppe",
+        "zone": "太阳神草原",
         "spawns": [
             [12.5, 17.3],
             [13.5, 10.4],
@@ -2229,7 +2229,7 @@
     {
         "name": "阿苏黄",
         "rank": "B",
-        "zone": "The Azim Steppe",
+        "zone": "太阳神草原",
         "spawns": [
             [12.5, 17.3],
             [13.5, 10.4],
@@ -2245,7 +2245,7 @@
     {
         "name": "俱利摩",
         "rank": "B",
-        "zone": "The Azim Steppe",
+        "zone": "太阳神草原",
         "spawns": [
             [9.6, 22.3],
             [9.7, 25.9],
@@ -2261,7 +2261,7 @@
     {
         "name": "兀鲁忽乃朝鲁",
         "rank": "S",
-        "zone": "The Azim Steppe",
+        "zone": "太阳神草原",
         "spawns": [
             [12.5, 17.3],
             [13.5, 10.4],
@@ -2286,7 +2286,7 @@
     {
         "name": "阿伽托斯",
         "rank": "A",
-        "zone": "The Churning Mists",
+        "zone": "翻云雾海",
         "spawns": [
             [22.5, 31.1],
             [25.9, 7.9],
@@ -2308,7 +2308,7 @@
     {
         "name": "布涅",
         "rank": "A",
-        "zone": "The Churning Mists",
+        "zone": "翻云雾海",
         "spawns": [
             [22.5, 31.1],
             [24.9, 20.5],
@@ -2329,7 +2329,7 @@
     {
         "name": "斯奇塔利斯",
         "rank": "B",
-        "zone": "The Churning Mists",
+        "zone": "翻云雾海",
         "spawns": [
             [22.5, 31.1],
             [24.9, 20.5],
@@ -2346,7 +2346,7 @@
     {
         "name": "惊慌稻草龙",
         "rank": "B",
-        "zone": "The Churning Mists",
+        "zone": "翻云雾海",
         "spawns": [
             [6.9, 20.3],
             [6.4, 35.7],
@@ -2365,7 +2365,7 @@
     {
         "name": "刚德瑞瓦",
         "rank": "S",
-        "zone": "The Churning Mists",
+        "zone": "翻云雾海",
         "spawns": [
             [22.5, 31.1],
             [24.9, 20.5],
@@ -2394,7 +2394,7 @@
     {
         "name": "双足飞龙之王",
         "rank": "A",
-        "zone": "The Dravanian Forelands",
+        "zone": "龙堡参天高地",
         "spawns": [
             [10.3, 35.2],
             [12.3, 27.6],
@@ -2416,7 +2416,7 @@
     {
         "name": "派拉斯特暴龙",
         "rank": "A",
-        "zone": "The Dravanian Forelands",
+        "zone": "龙堡参天高地",
         "spawns": [
             [10.3, 35.2],
             [12.3, 27.6],
@@ -2438,7 +2438,7 @@
     {
         "name": "骨颌彗星兵",
         "rank": "B",
-        "zone": "The Dravanian Forelands",
+        "zone": "龙堡参天高地",
         "spawns": [
             [10.3, 35.2],
             [12.3, 27.6],
@@ -2454,7 +2454,7 @@
     {
         "name": "提克斯塔",
         "rank": "B",
-        "zone": "The Dravanian Forelands",
+        "zone": "龙堡参天高地",
         "spawns": [
             [21.4, 19.8],
             [25.7, 24.8],
@@ -2470,7 +2470,7 @@
     {
         "name": "神穆尔鸟",
         "rank": "S",
-        "zone": "The Dravanian Forelands",
+        "zone": "龙堡参天高地",
         "spawns": [
             [10.3, 35.2],
             [12.3, 27.6],
@@ -2496,7 +2496,7 @@
     {
         "name": "机工兵 斯利普金克斯",
         "rank": "A",
-        "zone": "The Dravanian Hinterlands",
+        "zone": "龙堡内陆低地",
         "spawns": [
             [24.0, 23.5],
             [26.3, 36.9],
@@ -2519,7 +2519,7 @@
     {
         "name": "斯特拉斯",
         "rank": "A",
-        "zone": "The Dravanian Hinterlands",
+        "zone": "龙堡内陆低地",
         "spawns": [
             [24.0, 23.5],
             [26.3, 36.9],
@@ -2543,7 +2543,7 @@
     {
         "name": "布拉巨猿",
         "rank": "B",
-        "zone": "The Dravanian Hinterlands",
+        "zone": "龙堡内陆低地",
         "spawns": [
             [24.0, 23.5],
             [26.3, 36.9],
@@ -2561,7 +2561,7 @@
     {
         "name": "翼肢鲎",
         "rank": "B",
-        "zone": "The Dravanian Hinterlands",
+        "zone": "龙堡内陆低地",
         "spawns": [
             [5.4, 22.1],
             [8.5, 34.0],
@@ -2579,7 +2579,7 @@
     {
         "name": "苍白骑士",
         "rank": "S",
-        "zone": "The Dravanian Hinterlands",
+        "zone": "龙堡内陆低地",
         "spawns": [
             [24.0, 23.5],
             [26.3, 36.9],
@@ -2608,7 +2608,7 @@
     {
         "name": "女王蜂",
         "rank": "A",
-        "zone": "The Fringes",
+        "zone": "基拉巴尼亚边区",
         "spawns": [
             [8.7, 25.2],
             [8.3, 30.5],
@@ -2622,7 +2622,7 @@
     {
         "name": "奥迦斯",
         "rank": "A",
-        "zone": "The Fringes",
+        "zone": "基拉巴尼亚边区",
         "spawns": [
             [15.4, 26.3],
             [16.7, 24.3],
@@ -2637,7 +2637,7 @@
     {
         "name": "奥祖鲁姆",
         "rank": "B",
-        "zone": "The Fringes",
+        "zone": "基拉巴尼亚边区",
         "spawns": [
             [8.7, 25.2],
             [8.3, 30.5],
@@ -2657,7 +2657,7 @@
     {
         "name": "影中暗 雅弥尼",
         "rank": "B",
-        "zone": "The Fringes",
+        "zone": "基拉巴尼亚边区",
         "spawns": [
             [25.2, 28.4],
             [25.8, 31.8],
@@ -2671,7 +2671,7 @@
     {
         "name": "优昙婆罗花",
         "rank": "S",
-        "zone": "The Fringes",
+        "zone": "基拉巴尼亚边区",
         "spawns": [
             [8.3, 30.5],
             [16.7, 24.3],
@@ -2686,7 +2686,7 @@
     {
         "name": "泛光晶体",
         "rank": "A",
-        "zone": "The Lochs",
+        "zone": "基拉巴尼亚湖区",
         "spawns": [
             [35.0, 11.2],
             [7.7, 14.1],
@@ -2703,7 +2703,7 @@
     {
         "name": "马希沙",
         "rank": "A",
-        "zone": "The Lochs",
+        "zone": "基拉巴尼亚湖区",
         "spawns": [
             [28.9, 7.9],
             [6.4, 8.2],
@@ -2720,7 +2720,7 @@
     {
         "name": "奇洼",
         "rank": "B",
-        "zone": "The Lochs",
+        "zone": "基拉巴尼亚湖区",
         "spawns": [
             [13.9, 20.6],
             [18.8, 25.7],
@@ -2733,7 +2733,7 @@
     {
         "name": "玛涅斯",
         "rank": "B",
-        "zone": "The Lochs",
+        "zone": "基拉巴尼亚湖区",
         "spawns": [
             [4.6, 29.3],
             [6.4, 8.2],
@@ -2749,7 +2749,7 @@
     {
         "name": "盐和光",
         "rank": "S",
-        "zone": "The Lochs",
+        "zone": "基拉巴尼亚湖区",
         "spawns": [
             [28.9, 7.9],
             [13.9, 20.6],
@@ -2765,7 +2765,7 @@
     {
         "name": "熔骨炎蝎",
         "rank": "A",
-        "zone": "The Peaks",
+        "zone": "基拉巴尼亚山区",
         "spawns": [
             [8.7, 12.3],
             [11.2, 8.2],
@@ -2785,7 +2785,7 @@
     {
         "name": "弗克施泰因",
         "rank": "A",
-        "zone": "The Peaks",
+        "zone": "基拉巴尼亚山区",
         "spawns": [
             [5.6, 14.8],
             [8.7, 12.3],
@@ -2809,7 +2809,7 @@
     {
         "name": "布卡卜",
         "rank": "B",
-        "zone": "The Peaks",
+        "zone": "基拉巴尼亚山区",
         "spawns": [
             [5.6, 14.8],
             [8.7, 12.3],
@@ -2825,7 +2825,7 @@
     {
         "name": "蛇仆蚂蜓",
         "rank": "B",
-        "zone": "The Peaks",
+        "zone": "基拉巴尼亚山区",
         "spawns": [
             [5.8, 34.8],
             [7.8, 25.8],
@@ -2841,7 +2841,7 @@
     {
         "name": "爬骨怪龙",
         "rank": "S",
-        "zone": "The Peaks",
+        "zone": "基拉巴尼亚山区",
         "spawns": [
             [5.6, 14.8],
             [8.7, 12.3],
@@ -2859,7 +2859,7 @@
     {
         "name": "格拉斯曼",
         "rank": "A",
-        "zone": "The Rak'tika Greatwood",
+        "zone": "拉凯提卡大森林",
         "spawns": [
             [8.4, 34.5],
             [9.5, 18.5],
@@ -2878,7 +2878,7 @@
     {
         "name": "苏帕伊",
         "rank": "A",
-        "zone": "The Rak'tika Greatwood",
+        "zone": "拉凯提卡大森林",
         "spawns": [
             [8.4, 34.5],
             [9.5, 18.5],
@@ -2900,7 +2900,7 @@
     {
         "name": "启灵果",
         "rank": "B",
-        "zone": "The Rak'tika Greatwood",
+        "zone": "拉凯提卡大森林",
         "spawns": [
             [8.4, 34.5],
             [9.5, 18.5],
@@ -2915,7 +2915,7 @@
     {
         "name": "帕查玛玛",
         "rank": "B",
-        "zone": "The Rak'tika Greatwood",
+        "zone": "拉凯提卡大森林",
         "spawns": [
             [21.8, 13.5],
             [22.4, 10.7],
@@ -2929,7 +2929,7 @@
     {
         "name": "伊休妲",
         "rank": "S",
-        "zone": "The Rak'tika Greatwood",
+        "zone": "拉凯提卡大森林",
         "spawns": [
             [8.4, 34.5],
             [9.5, 18.5],
@@ -2950,7 +2950,7 @@
     },
     {
         "name": "得到宽恕的叛乱",
-        "zone": "The Rak'tika Greatwood",
+        "zone": "拉凯提卡大森林",
         "rank": "SS",
         "spawns": [
             [24.5, 37]
@@ -2958,7 +2958,7 @@
     },
     {
         "name": "得到宽恕的流言",
-        "zone": "The Rak'tika Greatwood",
+        "zone": "拉凯提卡大森林",
         "rank": "SSs",
         "spawns": [
             [8, 22],
@@ -2970,7 +2970,7 @@
     {
         "name": "船幽灵",
         "rank": "A",
-        "zone": "The Ruby Sea",
+        "zone": "红玉海",
         "spawns": [
             [5.0, 22.9],
             [6.9, 29.8],
@@ -2986,7 +2986,7 @@
     {
         "name": "鬼观梦",
         "rank": "A",
-        "zone": "The Ruby Sea",
+        "zone": "红玉海",
         "spawns": [
             [5.0, 22.9],
             [6.9, 29.8],
@@ -3002,7 +3002,7 @@
     {
         "name": "剑豪 刑具",
         "rank": "B",
-        "zone": "The Ruby Sea",
+        "zone": "红玉海",
         "spawns": [
             [5.0, 22.9],
             [6.9, 29.8],
@@ -3016,7 +3016,7 @@
     {
         "name": "姑获鸟",
         "rank": "B",
-        "zone": "The Ruby Sea",
+        "zone": "红玉海",
         "spawns": [
             [7.5, 5.9],
             [16.5, 10.6],
@@ -3030,7 +3030,7 @@
     {
         "name": "巨大鳐",
         "rank": "S",
-        "zone": "The Ruby Sea",
+        "zone": "红玉海",
         "spawns": [
             [6.9, 29.8],
             [23.9, 33.2],
@@ -3044,7 +3044,7 @@
     {
         "name": "恩克拉多斯",
         "rank": "A",
-        "zone": "The Sea of Clouds",
+        "zone": "阿巴拉提亚云海",
         "spawns": [
             [6.5, 19.3],
             [9.0, 16.7],
@@ -3070,7 +3070,7 @@
     {
         "name": "西斯尤",
         "rank": "A",
-        "zone": "The Sea of Clouds",
+        "zone": "阿巴拉提亚云海",
         "spawns": [
             [7.5, 8.3],
             [6.5, 19.3],
@@ -3097,7 +3097,7 @@
     {
         "name": "飞舞翼 萨努瓦力",
         "rank": "B",
-        "zone": "The Sea of Clouds",
+        "zone": "阿巴拉提亚云海",
         "spawns": [
             [7.5, 8.3],
             [6.5, 19.3],
@@ -3117,7 +3117,7 @@
     {
         "name": "斯奎克",
         "rank": "B",
-        "zone": "The Sea of Clouds",
+        "zone": "阿巴拉提亚云海",
         "spawns": [
             [13.8, 29.2],
             [14.6, 23.5],
@@ -3137,7 +3137,7 @@
     {
         "name": "极乐鸟",
         "rank": "S",
-        "zone": "The Sea of Clouds",
+        "zone": "阿巴拉提亚云海",
         "spawns": [
             [7.5, 8.3],
             [6.5, 19.3],
@@ -3170,7 +3170,7 @@
     {
         "name": "巴力",
         "rank": "A",
-        "zone": "The Tempest",
+        "zone": "黑风海",
         "spawns": [
             [24.7, 25.0],
             [29.1, 23.0],
@@ -3194,7 +3194,7 @@
     {
         "name": "卢莎卡",
         "rank": "A",
-        "zone": "The Tempest",
+        "zone": "黑风海",
         "spawns": [
             [24.7, 25.0],
             [29.1, 23.0],
@@ -3218,7 +3218,7 @@
     {
         "name": "助祭大蟹",
         "rank": "B",
-        "zone": "The Tempest",
+        "zone": "黑风海",
         "spawns": [
             [24.7, 25.0],
             [29.1, 23.0],
@@ -3234,7 +3234,7 @@
     {
         "name": "基乌嘶 渊斯",
         "rank": "B",
-        "zone": "The Tempest",
+        "zone": "黑风海",
         "spawns": [
             [8.9, 8.8],
             [11.2, 4.8],
@@ -3249,7 +3249,7 @@
     {
         "name": "顾尼图",
         "rank": "S",
-        "zone": "The Tempest",
+        "zone": "黑风海",
         "spawns": [
             [24.7, 25.0],
             [29.1, 23.0],
@@ -3270,7 +3270,7 @@
     },
     {
         "name": "得到宽恕的叛乱",
-        "zone": "The Tempest",
+        "zone": "黑风海",
         "rank": "SS",
         "spawns": [
             [13, 22]
@@ -3278,7 +3278,7 @@
     },
     {
         "name": "得到宽恕的流言",
-        "zone": "The Tempest",
+        "zone": "黑风海",
         "rank": "SSs",
         "spawns": [
             [8, 7],
@@ -3290,7 +3290,7 @@
     {
         "name": "玛贝利",
         "rank": "A",
-        "zone": "Upper La Noscea",
+        "zone": "拉诺西亚高地",
         "spawns": [
             [10.5, 21.4],
             [11.6, 22.7],
@@ -3314,7 +3314,7 @@
     {
         "name": "米腊德罗斯蜂鸟",
         "rank": "B",
-        "zone": "Upper La Noscea",
+        "zone": "拉诺西亚高地",
         "spawns": [
             [10.5, 21.4],
             [11.6, 22.7],
@@ -3338,7 +3338,7 @@
     {
         "name": "南迪",
         "rank": "S",
-        "zone": "Upper La Noscea",
+        "zone": "拉诺西亚高地",
         "spawns": [
             [10.5, 21.4],
             [11.6, 22.7],
@@ -3362,7 +3362,7 @@
     {
         "name": "纳恩",
         "rank": "A",
-        "zone": "Western La Noscea",
+        "zone": "西拉诺西亚",
         "spawns": [
             [12.9, 14.5],
             [14.6, 14.2],
@@ -3392,7 +3392,7 @@
     {
         "name": "暗盔魔蟹",
         "rank": "B",
-        "zone": "Western La Noscea",
+        "zone": "西拉诺西亚",
         "spawns": [
             [12.9, 14.5],
             [14.6, 14.2],
@@ -3422,7 +3422,7 @@
     {
         "name": "火愤牛",
         "rank": "S",
-        "zone": "Western La Noscea",
+        "zone": "西拉诺西亚",
         "spawns": [
             [14.0, 35.2],
             [16.1, 34.4],
@@ -3443,7 +3443,7 @@
     {
         "name": "阿列刻特利昂",
         "rank": "A",
-        "zone": "Western Thanalan",
+        "zone": "西萨纳兰",
         "spawns": [
             [8.4, 5.5],
             [10.2, 6.4],
@@ -3472,7 +3472,7 @@
     {
         "name": "阴沟毒液",
         "rank": "B",
-        "zone": "Western Thanalan",
+        "zone": "西萨纳兰",
         "spawns": [
             [8.4, 5.5],
             [10.2, 6.4],
@@ -3501,7 +3501,7 @@
     {
         "name": "虚无探索者",
         "rank": "S",
-        "zone": "Western Thanalan",
+        "zone": "西萨纳兰",
         "spawns": [
             [16.9, 16.5],
             [18.3, 15.0],
@@ -3523,7 +3523,7 @@
     {
         "name": "安迦达",
         "rank": "A",
-        "zone": "Yanxia",
+        "zone": "延夏",
         "spawns": [
             [12.3, 30.5],
             [17.6, 34.3],
@@ -3538,7 +3538,7 @@
     {
         "name": "象魔修罗",
         "rank": "A",
-        "zone": "Yanxia",
+        "zone": "延夏",
         "spawns": [
             [12.3, 30.5],
             [17.6, 34.3],
@@ -3553,7 +3553,7 @@
     {
         "name": "大太",
         "rank": "B",
-        "zone": "Yanxia",
+        "zone": "延夏",
         "spawns": [
             [12.3, 30.5],
             [17.6, 34.3],
@@ -3567,7 +3567,7 @@
     {
         "name": "闪雷击 鱼雷",
         "rank": "B",
-        "zone": "Yanxia",
+        "zone": "延夏",
         "spawns": [
             [16.9, 13.8],
             [18.3, 10.5],
@@ -3581,7 +3581,7 @@
     {
         "name": "伽马",
         "rank": "S",
-        "zone": "Yanxia",
+        "zone": "延夏",
         "spawns": [
             [12.3, 30.5],
             [16.9, 13.8],
@@ -3595,7 +3595,7 @@
     {
         "name": "金刚鸠摩罗",
         "rank": "B",
-        "zone": "Thavnair",
+        "zone": "萨维奈岛",
         "spawns": [
             [18.5, 11.5],
             [14.5, 12.2],
@@ -3606,7 +3606,7 @@
     {
         "name": "伊罗婆缇",
         "rank": "B",
-        "zone": "Thavnair",
+        "zone": "萨维奈岛",
         "spawns": [
             [18.4, 23.6],
             [20.5, 31.3],
@@ -3618,7 +3618,7 @@
     {
         "name": "尤兰",
         "rank": "A",
-        "zone": "Thavnair",
+        "zone": "萨维奈岛",
         "spawns": [
             [18.5, 11.5],
             [14.5, 12.2],
@@ -3634,7 +3634,7 @@
     {
         "name": "须羯里婆",
         "rank": "A",
-        "zone": "Thavnair",
+        "zone": "萨维奈岛",
         "spawns": [
             [18.5, 11.5],
             [14.5, 12.2],
@@ -3650,7 +3650,7 @@
     {
         "name": "Sphatika",
         "rank": "S",
-        "zone": "Thavnair",
+        "zone": "萨维奈岛",
         "spawns": [
             [18.5, 11.5],
             [14.5, 12.2],
@@ -3666,7 +3666,7 @@
     {
         "name": "草贤人",
         "rank": "B",
-        "zone": "Labyrinthos",
+        "zone": "迷津",
         "spawns": [
             [17.0, 9.6],
             [29.9, 8.2],
@@ -3677,7 +3677,7 @@
     {
         "name": "哞哞",
         "rank": "B",
-        "zone": "Labyrinthos",
+        "zone": "迷津",
         "spawns": [
             [5.9, 33.6],
             [10.7, 19.3],
@@ -3690,7 +3690,7 @@
     {
         "name": "胡睹",
         "rank": "A",
-        "zone": "Labyrinthos",
+        "zone": "迷津",
         "spawns": [
             [17.0, 9.6],
             [29.9, 8.2],
@@ -3707,7 +3707,7 @@
     {
         "name": "斯图希",
         "rank": "A",
-        "zone": "Labyrinthos",
+        "zone": "迷津",
         "spawns": [
             [17.0, 9.6],
             [29.9, 8.2],
@@ -3724,7 +3724,7 @@
     {
         "name": "Burfurlur the Canny",
         "rank": "S",
-        "zone": "Labyrinthos",
+        "zone": "迷津",
         "spawns": [
             [17.0, 9.6],
             [29.9, 8.2],
@@ -3741,7 +3741,7 @@
     {
         "name": "战争贩子",
         "rank": "B",
-        "zone": "Garlemald",
+        "zone": "加雷马",
         "spawns": [
             [9.9, 11.6],
             [11.8, 17.2],
@@ -3752,7 +3752,7 @@
     {
         "name": "皇帝的玫瑰",
         "rank": "B",
-        "zone": "Garlemald",
+        "zone": "加雷马",
         "spawns": [
             [23.4, 25.8],
             [27.6, 34.0],
@@ -3764,7 +3764,7 @@
     {
         "name": "密涅瓦",
         "rank": "A",
-        "zone": "Garlemald",
+        "zone": "加雷马",
         "spawns": [
             [9.9, 11.6],
             [11.8, 17.2],
@@ -3780,7 +3780,7 @@
     {
         "name": "黑杨树精",
         "rank": "A",
-        "zone": "Garlemald",
+        "zone": "加雷马",
         "spawns": [
             [9.9, 11.6],
             [11.8, 17.2],
@@ -3796,7 +3796,7 @@
     {
         "name": "阿姆斯特朗",
         "rank": "S",
-        "zone": "Garlemald",
+        "zone": "加雷马",
         "spawns": [
             [9.9, 11.6],
             [11.8, 17.2],
@@ -3812,7 +3812,7 @@
     {
         "name": "起源石",
         "rank": "B",
-        "zone": "Mare Lamentorum",
+        "zone": "叹息海",
         "spawns": [
             [16.5, 28.8],
             [20.9, 34.7],
@@ -3824,7 +3824,7 @@
     {
         "name": "巨月蚤",
         "rank": "B",
-        "zone": "Mare Lamentorum",
+        "zone": "叹息海",
         "spawns": [
             [10.4, 24.1],
             [17.3, 24.8],
@@ -3836,7 +3836,7 @@
     {
         "name": "慕斯公主",
         "rank": "A",
-        "zone": "Mare Lamentorum",
+        "zone": "叹息海",
         "spawns": [
             [16.5, 28.8],
             [20.9, 34.7],
@@ -3853,7 +3853,7 @@
     {
         "name": "月面仙人刺女王",
         "rank": "A",
-        "zone": "Mare Lamentorum",
+        "zone": "叹息海",
         "spawns": [
             [16.5, 28.8],
             [20.9, 34.7],
@@ -3870,7 +3870,7 @@
     {
         "name": "沉思之物",
         "rank": "S",
-        "zone": "Mare Lamentorum",
+        "zone": "叹息海",
         "spawns": [
             [16.5, 28.8],
             [20.9, 34.7],
@@ -3887,7 +3887,7 @@
     {
         "name": "欧斯克·雷伊",
         "rank": "B",
-        "zone": "Ultima Thule",
+        "zone": "天外天垓",
         "spawns": [
             [15.0, 36.1],
             [16.4, 26.0],
@@ -3898,7 +3898,7 @@
     {
         "name": "等级作弊仪",
         "rank": "B",
-        "zone": "Ultima Thule",
+        "zone": "天外天垓",
         "spawns": [
             [8.3, 20.3],
             [12.0, 22.0],
@@ -3910,7 +3910,7 @@
     {
         "name": "伊塔总领",
         "rank": "A",
-        "zone": "Ultima Thule",
+        "zone": "天外天垓",
         "spawns": [
             [15.0, 36.1],
             [16.4, 26.0],
@@ -3926,7 +3926,7 @@
     {
         "name": "凡·艾尔",
         "rank": "A",
-        "zone": "Ultima Thule",
+        "zone": "天外天垓",
         "spawns": [
             [15.0, 36.1],
             [16.4, 26.0],
@@ -3942,7 +3942,7 @@
     {
         "name": "狭缝",
         "rank": "S",
-        "zone": "Ultima Thule",
+        "zone": "天外天垓",
         "spawns": [
             [15.0, 36.1],
             [16.4, 26.0],
@@ -3958,7 +3958,7 @@
     {
         "name": "尤姆卡克斯",
         "rank": "B",
-        "zone": "Elpis",
+        "zone": "厄尔庇斯",
         "spawns": [
             [12.6, 9.9],
             [21.3, 13.3],
@@ -3971,7 +3971,7 @@
     {
         "name": "肖科莫",
         "rank": "B",
-        "zone": "Elpis",
+        "zone": "厄尔庇斯",
         "spawns": [
             [6.9, 29.0],
             [12.9, 32.2],
@@ -3983,7 +3983,7 @@
     {
         "name": "固兰盖奇",
         "rank": "A",
-        "zone": "Elpis",
+        "zone": "厄尔庇斯",
         "spawns": [
             [12.6, 9.9],
             [21.3, 13.3],
@@ -4001,7 +4001,7 @@
     {
         "name": "瓣齿鲨",
         "rank": "A",
-        "zone": "Elpis",
+        "zone": "厄尔庇斯",
         "spawns": [
             [12.6, 9.9],
             [21.3, 13.3],
@@ -4019,7 +4019,7 @@
     {
         "name": "俄菲翁尼厄斯",
         "rank": "S",
-        "zone": "Elpis",
+        "zone": "厄尔庇斯",
         "spawns": [
             [12.6, 9.9],
             [21.3, 13.3],
@@ -4037,7 +4037,7 @@
     {
         "name": "克尔",
         "rank": "SS",
-        "zone": "Thavnair",
+        "zone": "萨维奈岛",
         "spawns": [
             [24.3, 16.8]
         ]
@@ -4045,7 +4045,7 @@
     {
         "name": "克尔的侍从",
         "rank": "SSs",
-        "zone": "Thavnair",
+        "zone": "萨维奈岛",
         "spawns": [
             [12.1, 16.3],
             [16.5, 29.4],
@@ -4056,7 +4056,7 @@
     {
         "name": "克尔",
         "rank": "SS",
-        "zone": "Labyrinthos",
+        "zone": "迷津",
         "spawns": [
             [24.9, 16.0]
         ]
@@ -4064,7 +4064,7 @@
     {
         "name": "克尔的侍从",
         "rank": "SSs",
-        "zone": "Labyrinthos",
+        "zone": "迷津",
         "spawns": [
             [9.3, 22.1],
             [25.1, 8.5],
@@ -4075,7 +4075,7 @@
     {
         "name": "克尔",
         "rank": "SS",
-        "zone": "Garlemald",
+        "zone": "加雷马",
         "spawns": [
             [19.5, 23.6]
         ]
@@ -4083,7 +4083,7 @@
     {
         "name": "克尔的侍从",
         "rank": "SSs",
-        "zone": "Garlemald",
+        "zone": "加雷马",
         "spawns": [
             [16.8, 9.6],
             [21.2, 32.5],
@@ -4094,7 +4094,7 @@
     {
         "name": "克尔",
         "rank": "SS",
-        "zone": "Mare Lamentorum",
+        "zone": "叹息海",
         "spawns": [
             [18.6, 30.2]
         ]
@@ -4102,7 +4102,7 @@
     {
         "name": "克尔的侍从",
         "rank": "SSs",
-        "zone": "Mare Lamentorum",
+        "zone": "叹息海",
         "spawns": [
             [11.9, 20.6],
             [11.7, 35.9],
@@ -4113,7 +4113,7 @@
     {
         "name": "克尔",
         "rank": "SS",
-        "zone": "Ultima Thule",
+        "zone": "天外天垓",
         "spawns": [
             [14.5, 29.6]
         ]
@@ -4121,7 +4121,7 @@
     {
         "name": "克尔的侍从",
         "rank": "SSs",
-        "zone": "Ultima Thule",
+        "zone": "天外天垓",
         "spawns": [
             [9.8, 32.2],
             [16.1, 16.8],
@@ -4132,7 +4132,7 @@
     {
         "name": "克尔",
         "rank": "SS",
-        "zone": "Elpis",
+        "zone": "厄尔庇斯",
         "spawns": [
             [22.7, 19.5]
         ]
@@ -4140,7 +4140,7 @@
     {
         "name": "克尔的侍从",
         "rank": "SSs",
-        "zone": "Elpis",
+        "zone": "厄尔庇斯",
         "spawns": [
             [7.9, 35.8],
             [16.8, 7.0],
