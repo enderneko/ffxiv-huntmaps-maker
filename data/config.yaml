@@ -37,11 +37,11 @@ colors:
     SSs: "#ff99ff"
 
 expansions:
-    ARR: A Realm Reborn
-    HW: Heavensward
-    SB: Stormblood
-    SHB: Shadowbringers
-    EW: Endwalker
+    ARR: 重生之境 # A Realm Reborn
+    HW: 苍穹之禁城 # Heavensward
+    SB: 红莲之狂潮 # Stormblood
+    SHB: 暗影之逆焰 # Shadowbringers
+    EW: 晓月之终途 # Endwalker
 
 zones:
     中拉诺西亚: # Middle La Noscea

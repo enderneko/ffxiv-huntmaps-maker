@@ -244,13 +244,13 @@ class MapAnnotator:
             expac_data = defaultdict(list)
             for zone, info in self._zones.items():
                 if info["expansion"] == expansion:
-                    if info["region"] == "Norvrandt":
-                        if len(expac_data["Norvrandt 1"]) < 3:
-                            expac_data["Norvrandt 1"].append(
+                    if info["region"] == "诺弗兰特":
+                        if len(expac_data["诺弗兰特 1"]) < 3:
+                            expac_data["诺弗兰特 1"].append(
                                 (info.get("zonename", zone), info["filename"])
                             )
                         else:
-                            expac_data["Norvrandt 2"].append(
+                            expac_data["诺弗兰特 2"].append(
                                 (info.get("zonename", zone), info["filename"])
                             )
                     else:
@@ -281,7 +281,7 @@ class MapAnnotator:
                 for region in sorted(expac_data.keys()):
                     try:
                         zone, file = expac_data[region][i]
-                        if "Norvrandt" in region:
+                        if "诺弗兰特" in region:
                             region = region[:-2]
                         url = url_template.format(region=region, zone=zone, file=file)
                         item = item_template.format(url=url, w=150)
