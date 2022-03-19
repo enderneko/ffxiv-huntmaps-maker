@@ -1,5 +1,7 @@
 # ffxiv-huntmaps-maker
 
+查看所有命令 `python annotate.py`
+
 具体说明见原项目 [ffxiv-huntmaps-maker](https://github.com/RKI027/ffxiv-huntmaps-maker)
 
 ## 使用方法
