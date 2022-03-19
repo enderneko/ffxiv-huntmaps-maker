@@ -5,7 +5,7 @@ tool:
     preview_url_template: https://raw.githubusercontent.com/enderneko/ffxiv-huntmaps-maker/master/Saved/UI/地图/{region}/{zone}/{file}_m.png
 
 marker:
-    size: 30
+    size: 40
     inner_size_scale: 0.4
     shadow_offset: (3, 3)
     shadow_scale: 1.0
@@ -22,7 +22,7 @@ legend:
     mark_scale: 0.95
     font_stroke: 1
     border_space: (5, 5)
-    font_size: 20
+    font_size: 30
     font: D:\Documents\TexTools\SourceHanSans-Normal.otf
     shadow_color: "#444444"
     shadow_iterations: 7
